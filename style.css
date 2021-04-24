@@ -1,0 +1,23 @@
+.header{
+    background-color:#EE6E7C;
+    text-align: center;
+}
+h2,h3{
+    text-align: center;
+}
+
+.menu *{
+    margin-right: 30px;
+}
+body{
+    background-color:#D6A8A8;
+    margin: 30px;
+}
+h6{
+    font-size:20px;
+}
+.grid{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content:space-between;
+}
